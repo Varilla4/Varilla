@@ -100,7 +100,9 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 # Images
 ![Imagen1](./images/1.png)
+
 Like links, images also have a footnote style syntax
+
 ![Imagen2](./images/2.png)
 
 With a reference later in the document defining the URL location:
